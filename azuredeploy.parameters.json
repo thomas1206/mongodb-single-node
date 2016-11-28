@@ -1,0 +1,29 @@
+﻿{
+    "newStorageAccountName": {
+        "value": "mongodbaccount"
+    },  
+    "vmName": {
+        "value": "MongoDBServer"
+    },
+    "adminUserName": {
+        "value": "azureuser"
+    },
+    "adminPassword": {
+        "value": "YOUR_PASSWORD"
+    },
+    "CentOSVersion": {
+        "value": "6.6"
+    },
+    "vmSize": {
+        "value": "Standard_A1"
+    },
+    "publicIPAddressName": {
+        "value": "MongoDBPublicIP"
+    },
+    "nicName": {
+        "value": "MongoDBNIC"
+    },    
+    "virtualNetworkName": {
+        "value": "MongoDBVNET"
+    }
+}
